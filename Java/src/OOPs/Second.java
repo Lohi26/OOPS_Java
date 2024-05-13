@@ -1,5 +1,4 @@
 package OOPs;
-
 public class Second {
 	public int a=10;
 	public int b=20;
@@ -19,4 +18,9 @@ public class Second {
 		System.out.println(second.add());
 		System.out.println(second.add("Method Overloading or Complie time polymorphism"));
 	}
+	
+	
+	//Methods with same methods name but with
+	//different number of paramters or.....
+	//different types of parameters....
 }
